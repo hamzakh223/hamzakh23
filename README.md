@@ -59,4 +59,4 @@
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-If you want, I can also make a **much more impressive GitHub profile (with tech badges, icons, and a contribution snake animation)** that looks like a **professional developer profile**.
+
